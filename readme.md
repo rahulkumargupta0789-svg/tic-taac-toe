@@ -76,3 +76,4 @@ chandu kumari
 it is a game made for practing the concept of html css and jacscript
 
 git repo: https://github.com/rahulkumargupta0789-svg/tic-taac-toe
+live webpage link: https://modijitictactoe.netlify.app/
